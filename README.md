@@ -1,6 +1,4 @@
 # JumpStats Plugin Counter-Strike 1.6 2025
-
-## Overview
 This is a Counter-Strike 1.6 AMXX plugin for advanced jump statistics, originally by kzuq^BorJomi (version 2.42). It provides detailed stats and HUD feedback for various jump types (LongJump, CountJump, Double CountJump, LadderJump, Bhop, etc.), helping players improve their movement skills. The plugin is inspired by kz_ljs_xm and Exolent's work.
 
 ## Features
