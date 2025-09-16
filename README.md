@@ -37,15 +37,7 @@ Place these `.inc` files in your `amxmodx/scripting/include/` directory.
 - All cvars are prefixed with `kz_uq_` for customization (see source for full list).
 
 ## Output Example
-When a player performs a jump, the plugin displays:
-- Jump type (e.g., LongJump, CountJump)
-- Distance jumped
-- Prestrafe speed
-- Sync percentage
-- Number of strafes
-- HUD color feedback based on performance
-
-Example HUD output:
+Example CHAT output:
 ```
 [TAG] LJ: 245.12 units | Pre: 276.44 | Sync: 85% | Strafes: 7
 ```
